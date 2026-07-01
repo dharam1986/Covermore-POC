@@ -4,7 +4,7 @@ A React + TypeScript + Tailwind CSS project.
 
 ## Vecel url
 App deployed in Vecel, PLeas use below url for UI :
-
+https://covermore-poc-react.vercel.app/
 
 ## Run Locally
 
